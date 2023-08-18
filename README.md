@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohak Trivedi</h1>
 <h3 align="center">Frontend Development | Associate Product Engineer at Crio.Do</h3>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Cypress, Data Structures and Algorithms**
 
 - 💬 Ask me about **JavaScript, ReactJS, Redux, HTML, CSS**
 
